@@ -1,0 +1,17 @@
+{"$schema": "/mediawiki/recentchange/1.0.0", "meta": {"uri": "https://en.wikipedia.org/wiki/Category:1._FC_Kaiserslautern_managers", "request_id": "2a12af1a-ea53-4b79-b68f-d51236444d78", "id": "db9c3a97-90da-44a1-9735-01e8d289ea3d", "dt": "2025-04-22T21:09:44Z", "domain": "en.wikipedia.org", "stream": "mediawiki.recentchange", "topic": "eqiad.mediawiki.recentchange", "partition": 0, "offset": 5530158646}, "id": 1897525365, "type": "categorize", "namespace": 14, "title": "Category:1. FC Kaiserslautern managers", "title_url": "https://en.wikipedia.org/wiki/Category:1._FC_Kaiserslautern_managers", "comment": "[[:Torsten Lieberknecht]] added to category, [[Special:WhatLinksHere/Torsten Lieberknecht|this page is included within other pages]]", "timestamp": 1745356184, "user": "2003:100:3700:4900:E92F:6713:3155:358D", "bot": false, "notify_url": "https://en.wikipedia.org/w/index.php?diff=1286923236&oldid=1269267596", "server_url": "https://en.wikipedia.org", "server_name": "en.wikipedia.org", "server_script_path": "/w", "wiki": "enwiki", "parsedcomment": "<a href=\"/wiki/Torsten_Lieberknecht\" title=\"Torsten Lieberknecht\">Torsten Lieberknecht</a> added to category, <a href=\"/wiki/Special:WhatLinksHere/Torsten_Lieberknecht\" title=\"Special:WhatLinksHere/Torsten Lieberknecht\">this page is included within other pages</a>"}
+
+
+{"$schema": "/mediawiki/recentchange/1.0.0", 
+"meta": {"uri": "https://en.wikipedia.org/wiki/Mansfield_Museum", "request_id": "6af28d6c-53ff-41f6-906c-a7a69196f72d", "id": "d34d4012-959f-49f6-9c77-b277cfd32e0b", "dt": "2025-04-22T21:56:22Z", "domain": "en.wikipedia.org", "stream": "mediawiki.recentchange", "topic": "eqiad.mediawiki.recentchange", "partition": 0, "offset": 5530248577}, 
+"id": 1897536561, 
+"type": "edit", 
+"namespace": 0, 
+"title": "Mansfield Museum", 
+"title_url": "https://en.wikipedia.org/wiki/Mansfield_Museum", 
+"comment": "This section to be moved after the collections section.", 
+"timestamp": 1745358982, 
+"user": "MatthewDavid41", 
+"bot": false, "notify_url": "https://en.wikipedia.org/w/index.php?diff=1286929187&oldid=1286929068", "minor": false, "length": {"old": 5215, "new": 3334}, "revision": {"old": 1286929068, "new": 1286929187}, "server_url": "https://en.wikipedia.org", "server_name": "en.wikipedia.org", "server_script_path": "/w", "wiki": "enwiki", "parsedcomment": "This section to be moved after the collections section."}
+
+
+{"lock_time": 0, "ver": 2, "size": 205, "inputs": [{"sequence": 4294967293, "prev_out": {"spent": true, "tx_index": 0, "type": 0, "addr": "bc1pnydqc66j22gznlsk8de5mk59hz3etyzdpjvvswjnlcymvk3a5qfsc6a9ap", "value": 290044, "n": 0, "script": "5120991a0c6b52529029fe163b734dda85b8a395904d0c98c83a53fe09b65a3da013"}, "script": ""}], "time": 1745428644, "tx_index": 0, "vin_sz": 1, "hash": "19188018a4abceed20ff8c98abf3cbea73c07dda64386c23b60e6eaa765cd2be", "vout_sz": 2, "relayed_by": "0.0.0.0", "out": [{"spent": false, "tx_index": 0, "type": 0, "addr": "bc1pnydqc66j22gznlsk8de5mk59hz3etyzdpjvvswjnlcymvk3a5qfsc6a9ap", "value": 287118, "n": 0, "script": "5120991a0c6b52529029fe163b734dda85b8a395904d0c98c83a53fe09b65a3da013"}, {"spent": false, "tx_index": 0, "type": 0, "addr": null, "value": 0, "n": 1, "script": "6a5d1fff7f8192ec82d08b808082d48f8880a080835bff7f80ba8188a590f5c7e809"}]}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1745448080614,"sparkVersion":"3.5.5","uid":"VectorAssembler_fe1b477e9028","paramMap":{"handleInvalid":"skip","outputCol":"features_vec","inputCols":["size","vin_sz","vout_sz","input_value","output_value","fee"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_fe1b477e9028__output"}}
